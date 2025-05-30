@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yizhe ZHu"
+title                    : "Yizhe Zhu"
 title_separator          : "-"
 name                     : &name "Yizhe Zhu"
 description              : &description "Master student at Northeastern University"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master student at Northeastern University"
+  location         : "Boston MA 02115"
+  employer         : "Northeastern University"
   uri              : # URL
   email            : "zhu.yizhe@northeastern.edu" 
 
@@ -36,9 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=MhSyhtwAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
